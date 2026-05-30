@@ -24,9 +24,26 @@ section:first-of-type a:hover {
     background-color:black;
     color:aliceblue;
 }
+.T1 {
+    display: flex;
+    align-item: center;
+    justify-content: center;
+    gap: 16px;
+    margin-bottom: 1rem;
+}
+.PROMOCIONES-IMAGENES {
+    margin-top: 1rem;
+    border: 3px solid #000000;
+}
 
 
-
+.Promocional {
+    display: flex;
+    align-item: center;
+    justify-content: center;
+    gap: 16px;
+    margin-bottom: 1rem; 
+}
 section:nth-of-type(2) {
     padding: 3rem 2rem;
     text-align: center;

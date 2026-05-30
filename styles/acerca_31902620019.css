@@ -10,6 +10,13 @@ section:first-of-type h1 {
 section:first-of-type p {
     color:rgb(255, 255, 255);
 }
+.cool {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    margib-bottom: 1rem;
+}
 section:nth-of-type(2) {
     padding: 3rem 2rem;
     display: flex;
