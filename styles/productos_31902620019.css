@@ -3,7 +3,7 @@ section:first-of-type {
     padding: 3rem 2rem;
     background-color:rgb(109, 76, 56);
 }
-.menu-imagen {
+.menu-imagen_31902620019 {
     display: flex;
     align-item: center;
     justify-content: center;
@@ -37,7 +37,7 @@ section:not(first-of-type) > div > div {
     padding: 1rem;
     width: 200px;
 }
-.productos {
+.productos_31902620019 {
     display: block;
     margin: 1rem auto 0 auto;
 }
